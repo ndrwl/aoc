@@ -1,6 +1,4 @@
-﻿from operator import floordiv
-
-file = open("input.txt", "r")
+﻿file = open("input.txt", "r")
 lines = file.read().splitlines()
 
 def text_to_turn_value(text):
